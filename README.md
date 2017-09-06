@@ -1,3 +1,5 @@
+![熱盛](/atsumori.png) 
+
 # atsumori-slack-bot
 巷で流行っている熱盛をSLACK内で表示させるSLACK BOTです。<br>
 誰かの会話に10%の確率で熱盛のリアクションをして「失礼しました。」とBotが謝ります。

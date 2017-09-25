@@ -2,7 +2,7 @@
 
 # atsumori-slack-bot
 巷で流行っている熱盛をSLACK内で表示させるSLACK BOTです。<br>
-誰かの会話に10%の確率で熱盛のリアクションをして「失礼しました。」とBotが謝ります。
+誰かの会話に10%の確率で熱盛のリアクションをして「失礼しました」とBotが謝ります。
 
 ## 環境
 Python (version 3.X)<br>
@@ -15,7 +15,7 @@ slacker (version 0.9.42)<br>
 私はこちらを参考にしました。<br>
 [PythonのslackbotライブラリでSlackボットを作る](http://qiita.com/sukesuke/items/1ac92251def87357fdf6)<br>
 Botの名前と画像はTさんに設定するとよりリアルになります。<br>
-Botを作成した時に表示されるAPI_TOKENは4で使うのでメモしておいてください。
+Botを作成した時に表示されるAPI_TOKENは3で使うのでメモしておいてください。
 
 2. 熱盛の絵文字を登録<br>
 SLACKの絵文字として熱盛の画像を登録しましょう。<br>
